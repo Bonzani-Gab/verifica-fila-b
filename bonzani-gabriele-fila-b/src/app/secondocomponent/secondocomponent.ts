@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './secondocomponent.css',
 })
 export class Secondocomponent {
- bonzani: string = 'secondo';
+ bonzani: string = 'secondo'; // una variabile di tipo stringa e le assegna il valore "secondo", che sarà usata nel HTML per mostrare il nome del componente  
 }
