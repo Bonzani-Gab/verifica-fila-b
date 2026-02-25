@@ -1,0 +1,11 @@
+.riquadro-bianco {
+  border: 1px solid #777;
+  padding: 10px 20px;
+  background-color: white;
+  display: inline-block;
+}
+
+.testo-arancio {
+  color: #f5a623;
+  font-weight: bold;
+}
