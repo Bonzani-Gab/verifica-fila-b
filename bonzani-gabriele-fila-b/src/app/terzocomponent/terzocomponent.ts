@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './terzocomponent.css',
 })
 export class Terzocomponent {
-bonzani: string = 'terzo';
+
 }
