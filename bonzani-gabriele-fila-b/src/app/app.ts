@@ -18,5 +18,5 @@ import { Terzocomponent } from './terzocomponent/terzocomponent';// Importa il c
 })
 export class App {
   protected readonly title = signal('bonzani-gabriele-fila-b');
-    // variabile di tipo stringa e le assegna il valore "app", che sarà usata nel HTML per mostrare il nome del componente
+   bonzani: string = 'app'; //  una variabile di tipo stringa e le assegna il valore "app", che sarà usata nel HTML per mostrare il nome del componente
 }

@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './quartocomponent.css',
 })
 export class Quartocomponent {
-
+bonzani: string = 'quarto';
+}
